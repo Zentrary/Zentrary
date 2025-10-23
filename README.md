@@ -82,10 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zentrary&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zentrary&theme=tokyonight&hide_border=true" height="150" alt="streak" />
-</div>
-
 <br/>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zentrary&theme=onedark&no-frame=true&no-bg=true&column=6" alt="trophies" />
