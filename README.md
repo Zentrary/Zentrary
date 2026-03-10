@@ -95,22 +95,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zentrary&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zentrary&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zentrary&theme=onedark&no-frame=true&no-bg=true&column=6"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zentrary&theme=tokyo-night&hide_border=true&cache_seconds=1800"/>
 
 </div>
