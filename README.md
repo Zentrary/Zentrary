@@ -90,11 +90,3 @@
 - **Facebook**: https://www.facebook.com/Timmy.org/
 
 ---
-
-### 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zentrary&theme=tokyo-night&hide_border=true&cache_seconds=1800"/>
-
-</div>
